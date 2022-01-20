@@ -1,0 +1,2 @@
+class NotValidFigure(Exception):
+    pass
